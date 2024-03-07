@@ -7,6 +7,7 @@ theVal = String(55 - 11); //result of the new variable is 44
 
 // // Boolean to String
 theVal = String(true);
+
 // // Date to String
 theVal = String(new Date()); //converts the value of the variable to a date object which the result is the date of today.
 
